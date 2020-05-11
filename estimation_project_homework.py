@@ -25,7 +25,7 @@ from PyQt5.Qt import QThreadPool
 from sklearn import metrics
 from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar
 import matplotlib.pyplot as plt
-
+# look homework by E
 #------------------------------------------------------------------
 class MyFigure(FigureCanvas): #畫布的大小
     def __init__(self,parent=None,width=5, height=4, dpi=100):
